@@ -1,0 +1,41 @@
+.gee_chat_container {
+    box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+    max-width: 550px;
+    width: 400px;
+    border-radius: 12px;
+    margin-top: 0;
+    padding: 5px;
+    position: relative;
+    background-color: #fff;
+  
+  }
+
+  .box-container {
+      border-color: var(--elevation-border-color);
+      box-shadow: 0 1px 2px 0 rgb(60 64 67 / 30%), 0 2px 6px 2px rgb(60 64 67 / 15%);
+      max-width: 550px;
+      width: 400px;
+      border-radius: 12px;
+      margin-top: 0;
+      padding: 5px;
+      position: relative;
+      background-color: #fff;
+    }
+  
+    .box-container-inner {
+      padding: 0.75rem;
+      border-radius: 8px;
+      background-color: #ddebf8;
+    }
+
+    .box-container-inner h1 {
+        font-family: system-ui;
+        margin: 0px;
+    }
+
+    
+.para {
+    font-size: x-large;
+    height: 100px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Ubuntu, "Helvetica Neue", sans-serif;
+}
